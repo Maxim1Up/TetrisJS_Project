@@ -1,6 +1,6 @@
 import { Tetris } from "./tetris.js";
 import { convertPositionToIndex, PLAYFIELD_COLUMNS, PLAYFIELD_ROWS, SAD, rotateMatrix } from "./utilities.js";
-
+//&
 let hammer;
 let requestId;
 let timeoutId;
